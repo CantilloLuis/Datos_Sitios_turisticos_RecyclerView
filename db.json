@@ -1,0 +1,159 @@
+{
+  "sitios_en_recyclerview":[
+    {
+      "titles":"Plaza España",
+      "details":"Ubicacion: Está situado en el parque de María Luisa de la ciudad de Sevilla, España.",
+      "images":"https://static9.depositphotos.com/1038919/1181/i/600/depositphotos_11810481-stock-photo-bridge-of-plaza-de-espaa.jpg",
+      "rating":"10",
+      "rating2":"5.0"
+    },
+    {
+      "titles":"Setas de la Encarnación.",
+      "details":"Ubicacion: Esta obra está ubicada entre la plaza de la Encarnación y la plaza mayor de Sevilla, España.",
+      "images":"https://www.visitarsevilla.com/wp-content/uploads/2020/03/sevilla-12.jpg",
+      "rating":"8",
+      "rating2":"4.0"
+    },
+    {
+      "titles":"Iglesia san luis de los franceses.",
+      "details":"Ubicacion: Esta iglesia se encuentra ubicada en el número 27 de la calle San Luis, dividiendo los barrios de la Feria y San Julián en Sevilla, España.",
+      "images":"https://offloadmedia.feverup.com/sevillasecreta.co/wp-content/uploads/2016/09/20103007/san-luis-de-los-franceses.jpg",
+      "rating":"7",
+      "rating2":"3.5"
+    },
+    {
+      "titles":"Reales Alcazares.",
+      "details":"Ubicacion: Patio de Banderas, s/n, 41004 Sevilla, España",
+      "images":"https://ep01.epimg.net/elviajero/imagenes/2020/10/22/actualidad/1603354702_198953_1603365325_noticia_normal.jpg",
+      "rating":"8",
+      "rating2":"4.0"
+    },
+    {
+      "titles":"Parque de María Luisa.",
+      "details":"Ubicacion: P.º de las Delicias, s/n, 41013 Sevilla, España",
+      "images":"https://media-cdn.tripadvisor.com/media/photo-s/12/6a/30/c5/fabulosa-arquitectura.jpg",
+      "rating":"9",
+      "rating2":"4.5"
+    },
+    {
+      "titles":"Museo de Bellas Artes.",
+      "details":"Ubicacion: Pl. del Museo, 9, 41001 Sevilla, España",
+      "images":"https://static3-sevilla.abc.es/media/sevilla/2018/11/26/s/museo-bellas-artes-kVDE--1200x630@abc.JPG",
+      "rating":"8",
+      "rating2":"4.0"
+    },
+    {
+      "titles":"La Catedral.",
+      "details":"Ubicacion: Av. de la Constitución, s/n, 41004 Sevilla, España",
+      "images":"https://upload.wikimedia.org/wikipedia/commons/2/23/CatedraldeSevilla2.jpg",
+      "rating":"8",
+      "rating2":"4.0"
+    },
+    {
+      "titles":"La torre de Giralda.",
+      "details":"Ubicacion: Av. de la Constitución, s/n, 41004 Sevilla, España",
+      "images":"https://cdn.getyourguide.com/img/location/5e300281cb21f-wide.jpeg/88.jpg",
+      "rating":"7",
+      "rating2":"3.5"
+    },
+    {
+      "titles":"Plaza de toros de la Maestranza.",
+      "details":"Ubicacion: La plaza de toros de la Maestranza se encuentra en el barrio del Arenal de Sevilla, Andalucía, España.",
+      "images":"https://s0.wklcdn.com/image_115/3453850/20792875/13024719Master.jpg",
+      "rating":"8",
+      "rating2":"4.0"
+    }
+    ,{
+      "titles":"Isla de la Cartuja.",
+      "details":"Ubicacion: La isla de la Cartuja es un terreno de la ciudad de Sevilla situado entre dos brazos del río Guadalquivir, uno río vivo y el otro una dársena.",
+      "images":"https://imgs-akamai.mnstatic.com/71/fa/71faae529da08ea62ae83481e4eec43a.jpg",
+      "rating":"7",
+      "rating2":"3.5"
+    }
+  ],
+  "sitios_en_interface_detalle":[
+       {
+         
+      "titles":"Setas de la Encarnación.",
+      "images":"https://www.visitarsevilla.com/wp-content/uploads/2020/03/sevilla-12.jpg",
+      "details":"A primera vista, es evidente que no estamos ante un diseño convencional. El proyecto, también denominado de forma oficial desde su apertura como Setas de Sevilla es una estructura en forma de pérgola de madera y hormigón ubicada en la céntrica plaza de la Encarnación de la ciudad de Sevilla. La obra, compuesta principalmente de madera laminada, está formada por una gran retícula en forma de parasol sostenida sobre seis pilares que abarcan tanto la plaza de la Encarnación como la Plaza Mayor de la ciudad. Antiguamente, la Plaza de la Encarnación albergaba el mercado del mismo nombre, el cual fue construido durante el siglo XIX.",
+      "ubicacion":"Esta obra está ubicada entre la plaza de la Encarnación y la plaza mayor de Sevilla, España.",
+      "temperatura":"La temperatura varía entre 6 °C hasta 17 °C.",
+      "sitios_recomendados":"Museo Antiquarium, La torre de oro, la Giralda."
+     
+       },
+     {
+         
+      "titles":"Plaza España",
+      "images":"https://static9.depositphotos.com/1038919/1181/i/600/depositphotos_11810481-stock-photo-bridge-of-plaza-de-espaa.jpg",
+      "details":"La Plaza de España es un grupo de obras de arquitectura, fue construida por el arquitecto Aníbal González desde 1914 y 1929 como la edificación primordial y de mayor extensión, de la Exposición Iberoamericana de 1929. Es una enorme plaza rodeada por un estanque semicircular y este a su vez por un edificio con una torre en cada extremo. Es de estilo regionalista, es decir, se basa en elementos típicos de la arquitectura sevillana, por eso el ladrillo visto es el principal elemento constructivo y su decoración se centra en el revestimiento cerámico.",
+      "ubicacion":"Estás situado en el parque de María Luisa de la ciudad de Sevilla, España.",
+      "temperatura":"La temperatura varía entre 6 °C hasta 17 °C",
+      "sitios_recomendados":"Casa jacinto, club allard, charca, faborit, tradicion."
+     
+       },
+    
+    {
+         
+      "titles":"Iglesia san luis de los franceses.",
+      "images":"https://offloadmedia.feverup.com/sevillasecreta.co/wp-content/uploads/2016/09/20103007/san-luis-de-los-franceses.jpg",
+      "details":"Construida en el s. XVIII, se trata de uno de los mejores ejemplos de arquitectura barroca en Sevilla. Fue diseñado por el arquitecto Leonardo de Figueroa y construido entre 1699 y 1730 por encargo de la Compañía de Jesús. Destaca en su interior el retablo y la cripta. La entrada general es de 4 euros, aunque hay numerosos descuentos. Los sevillanos pagan solamente un euro y las visitas de grupo, dos euros por persona.",
+      "ubicacion":"Esta iglesia se encuentra ubicada en el número 27 de la calle San Luis, dividiendo los barrios de la Feria y San Julián en Sevilla, España.",
+      "temperatura":"",
+      "sitios_recomendados":"Capilla doméstica, Cripta, Nave principal y cúpula."
+     
+       },
+         {
+         
+      "titles":"Reales Alcazares.",
+      "images":"https://ep01.epimg.net/elviajero/imagenes/2020/10/22/actualidad/1603354702_198953_1603365325_noticia_normal.jpg",
+      "details":"El Real Alcázar de Sevilla es un conjunto palaciego amurallado construido en diferentes etapas históricas. El palacio original se edificó en la Alta Edad Media. Se conservan algunos vestigios de arte islámico y, de la etapa posterior a la conquista castellana, un espacio palaciego mudéjar y otro de estilo gótico. En reformas posteriores se añadieron elementos renacentistas, manieristas y barrocos.",
+      "ubicacion":"Patio de Banderas, s/n, 41004 Sevilla, España",
+      "temperatura":"",
+      "sitios_recomendados":"Bar Timbre, Arabesca Restaurant, Rincon de Beirut"
+     
+       },
+    {
+            
+      "titles":"Parque de María Luisa.",
+      "images":"https://media-cdn.tripadvisor.com/media/photo-s/12/6a/30/c5/fabulosa-arquitectura.jpg",
+      "details":"No hace falta disponer de mucho tiempo para recorrer los jardines más conocidos y queridos de la ciudad, que fueron donados a los sevillanos por María Luisa Fernanda de Borbón en 1914. Un desvío de su avenida central nos lleva hasta la estatua de Bécquer, costeada por los hermanos Álvarez Quintero cediendo los derechos de author de su comedia  La rima eterna. Lo más recomendable, antes de entrar en la aledaña Plaza de España, es dejarse perder por sus laberínticos caminos, estanques, fuentes y abundante vegetación.",
+      "ubicacion":"P.º de las Delicias, s/n, 41013 Sevilla, España",
+      "temperatura":"",
+      "sitios_recomendados":"Sambos Shop, YateEl Miarma, The World Best Spanish Omelette"
+     
+       },
+    {
+       "titles":"Museo de Bellas Artes.",
+      "images":"https://static3-sevilla.abc.es/media/sevilla/2018/11/26/s/museo-bellas-artes-kVDE--1200x630@abc.JPG",
+      "details":"El museo más relevante de Sevilla es también la segunda pinacoteca de España, con una valiosa colección de pintura de la escuela barroca (Zurbarán, Murillo y Valdés Leal), y exposiciones invitadas de envergadura. Para los residentes en la UE, la entrada es gratis. Los domingos abre, así que es un buen día para visitar el mercadillo de arte en la misma Plaza del Museo.",
+      "ubicacion":"Pl. del Museo, 9, 41001 Sevilla, España",
+      "temperatura":"",
+      "sitios_recomendados":"Bar Iscariote,  Bistro Los Tulipanes, La Chalá"
+     
+       },
+    {
+      "titles":"La Catedral.",
+      "images":"https://upload.wikimedia.org/wikipedia/commons/2/23/CatedraldeSevilla2.jpg",
+      "details":"El mayor templo gótico del mundo se alza en el corazón del casco histórico con su impresionante fachada, imponentes pórticos y un sobrecogedor interior, donde el altar mayor, escenario del baile de los seises (podrán verse de nuevo días antes de la Cuaresma), está a unos metros de la (supuesta) sepultura de Cristóbal Colón. Organiza visitas guiadas todos los días, a excepción del 1 y el 6 de enero y el 25 de diciembre. Este recorrido se realiza por Catedral gótica, las sacristías y la sala capitular renacentistas, el tesoro, la Giralda, el patio de los naranjos y la Iglesia del Salvador, ubicada en la plaza del Salvador, otra de las paradas imprescindibles de la ciudad.",
+      "ubicacion":"Av. de la Constitución, s/n, 41004 Sevilla, España",
+      "temperatura":"",
+      "sitios_recomendados":"Abaceria del Postigo, Génova, Terraviva."
+     
+       }
+   
+    ],
+    "sitios_en_recyclerview2":[
+      
+        {
+         
+      "titles":"La torre de Giralda.",
+      "images":"https://cdn.getyourguide.com/img/location/5e300281cb21f-wide.jpeg/88.jpg",
+      "details":"La majestuosa torre almohade que corona la Catedral concentra 800 años de nuestra historia. Durante muchos años dominaba el skyline de la ciudad, con sus 101 metros, récord arrebatado por la Torre Sevilla. El Giraldillo es su orgullosa veleta, cuya réplica puede admirarse en la Puerta del Principe. Estudiantes, jubilados, parados y sevillanos pagan 1,50 euros si quieren vivir la experiencia de subir a su campanario. La Girada resume a las mil maravillas muchos siglos de historia sobre su propia fisonomía. La confluencia de los diferentes estilos arquitectónicos que la caracterizan es reflejo de las culturas que habitaron Sevilla. El resultado, ecléctico y singular, fascina a cualquier viajero.",
+      "ubicacion":"Av. de la Constitución, s/n, 41004 Sevilla, España",
+      "temperatura":"",
+      "sitios_recomendados":"Marisqueira UMA Sevilla, Maestro Marcelino, Osteria L´Oca Giuliva."
+     
+       }
+    ]
+}
