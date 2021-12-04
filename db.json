@@ -1,5 +1,4 @@
-{
-  "sitios_en_recyclerview":[
+[
     {
       "titles":"Plaza España.",
       "details":"Ubicacion: Está situado en el parque de María Luisa de la ciudad de Sevilla, Av. Isabel la Católica, 41004 Sevilla, España.",
@@ -69,6 +68,5 @@
       "images":"https://imgs-akamai.mnstatic.com/71/fa/71faae529da08ea62ae83481e4eec43a.jpg",
       "rating":"7",
       "rating2":"3.5"
-    }
   ]     
-}
+
